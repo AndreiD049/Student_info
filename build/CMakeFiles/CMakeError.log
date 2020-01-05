@@ -1,7 +1,0 @@
-Determining if the C compiler works failed with the following output:
-Change Dir: D:/CPP/students/build/CMakeFiles/CMakeTmp
-
-Run Build Command(s):nmake /nologo cmTC_ed56b\fast && Не удается найти указанный файл
-Generator: execution of make failed. Make command was: nmake /nologo cmTC_ed56b\fast && 
-
-

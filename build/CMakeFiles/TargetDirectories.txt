@@ -1,3 +1,0 @@
-D:/CPP/students/build/CMakeFiles/edit_cache.dir
-D:/CPP/students/build/CMakeFiles/main.dir
-D:/CPP/students/build/CMakeFiles/rebuild_cache.dir
